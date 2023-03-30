@@ -10,7 +10,10 @@ Localidade: IFRN-CNAT-DIATINF
 
 Professor: [Leonardo Ataide Minora](https://github.com/leonardo-minora)
 
+Aluna: [Jainne Agatha Costa Bezerra](https://github.com/jainneagatha
+
 ## Log do projeto
 | Data | Descrição |
 | --- | --- |
+| 30/03/2023 | Projeto POS |
 
